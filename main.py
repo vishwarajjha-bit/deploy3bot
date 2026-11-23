@@ -11,7 +11,7 @@ import runner
 # ==============================================================================
 # PREMIUM CONFIGURATION, STICKER PACK AUTO-FETCH & CUSTOM EMOJI SUITE
 # ==============================================================================
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_TELEGRAM_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "9059950099:AAElppMODCk5YDcdqhlJOMKUMsVWMKiGjEs")
 OWNER_IDS = [8710593064]
 
 # Optional direct sticker file_id; if empty, the bot fetches a sticker from STICKER_PACK_NAME
